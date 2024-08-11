@@ -26,6 +26,7 @@
     "webpack-cli": "^5.1.4"
   },
   "dependencies": {
+    "core-js": "^3.38.0",
     "date-fns": "^3.6.0"
   }
 }
